@@ -1,5 +1,5 @@
 # PasswordGenerator
-# 🔑 Password Generator App
+# 🔑 Password Generator
 
 <div align="center">
   
