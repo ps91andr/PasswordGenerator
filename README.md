@@ -66,7 +66,6 @@
 | 📋 **زر النسخ السريع** | نسخ كلمة المرور بضغطة زر واحدة إلى الحافظة |
 | 🌐 **ثنائي اللغة** | واجهة عربية وإنجليزية كاملة قابلة للتبديل |
 | 🎨 **واجهة عصرية وجذابة** | تصميم أنيق وبسيط لتجربة مستخدم ممتازة |
-| 🛡️ **حماية ضد التصحيح (Anti-Debug)** | طبقات حماية مدمجة ضد محاولات تحليل الكود أو التصحيح |
 | 💯 **يعمل بدون إنترنت** | التطبيق يعمل محلياً بالكامل ولا يحتاج لأي اتصال بالإنترنت |
 
 ---
@@ -178,7 +177,6 @@
 | 📋 **Quick Copy Button** | Copy generated password to clipboard with a single click |
 | 🌐 **Bilingual Interface** | Full Arabic and English interface, switchable on-the-fly |
 | 🎨 **Modern & Attractive UI** | Elegant and minimalist design for an excellent user experience |
-| 🛡️ **Anti-Debug Protection** | Built-in security layers to prevent code analysis or debugging attempts |
 | 💯 **Offline Operation** | The application works entirely locally and does not require an internet connection |
 
 ---
