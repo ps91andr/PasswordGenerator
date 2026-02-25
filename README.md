@@ -86,7 +86,7 @@
 
 | الملف | الوصف |
 |-------|-------|
-| [Password_Generator_AR.exe](https://github.com/ps91andr/Password-Generator/releases/latest/download/Password_Generator_AR.exe) | النسخة العربية والنسخة الإنجليزية - لا تحتاج تثبيت |
+| [Password_Generator_AR_EN.exe](https://github.com/ps91andr/PasswordGenerator/releases/tag/PasswordGeneratorAR_EN) | النسخة العربية والنسخة الإنجليزية - لا تحتاج تثبيت |
 
 
 > 💡 **ملاحظة:** فقط حمل وشغل مباشرة! تأكد من أن ملفات الأيقونات (مثل `passwordgenerator.ico` أو `passwordgenerator.png`) وملفات الصور للروابط الاجتماعية (مثل `icons8-email-100.png`) موجودة في نفس مجلد ملف `.exe`.
@@ -197,7 +197,7 @@
 
 | File | Description |
 |------|-------------|
-| [Password_Generator_AR.exe](https://github.com/ps91andr/Password-Generator/releases/latest/download/Password_Generator_AR.exe) | Arabic version and English version - no installation needed |
+| [Password_Generator_AR.exe](https://github.com/ps91andr/PasswordGenerator/releases/tag/PasswordGeneratorAR_EN) | Arabic version and English version - no installation needed |
 
 
 > 💡 **Note:** Just download and run directly! Ensure that icon files (like `passwordgenerator.ico` or `passwordgenerator.png`) and social link image files (like `icons8-email-100.png`) are in the same directory as the `.exe` file.
